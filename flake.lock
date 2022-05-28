@@ -70,11 +70,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652798004,
-        "narHash": "sha256-/3Yn/LuGEQeiQCfF+GmUlv98mqhPZ+IoaI58CmX6egU=",
+        "lastModified": 1653690335,
+        "narHash": "sha256-LkwCTWx+G55qbqGPqpmuDDrtQhjWSg+SdCmVdUtHwLg=",
         "owner": "nim-nix-pkgs",
         "repo": "xmldom",
-        "rev": "71910d1265888e292f6e26b6eaba681adb5d8053",
+        "rev": "d3cc4db6d9b591ecc98697156fd460d78bf94f35",
         "type": "github"
       },
       "original": {
